@@ -1,0 +1,31 @@
+neighbourhood_code,primary_local_area,primary_pct,secondary_local_area,secondary_pct,total_geocoded,total_pip,centroid_excluded,total_sampled,geocode_success_rate,confidence
+001,Mount Pleasant,54.0%,Dunbar-Southlands,32.0%,50,50,0,50,100.0%,LOW
+002,Mount Pleasant,65.9%,Arbutus Ridge,12.2%,50,41,9,50,100.0%,MEDIUM
+003,Riley Park,90.0%,Dunbar-Southlands,5.0%,50,40,10,50,100.0%,HIGH
+004,Arbutus Ridge,65.6%,Riley Park,28.1%,50,32,18,50,100.0%,MEDIUM
+005,Oakridge,38.3%,Riley Park,25.5%,50,47,3,50,100.0%,LOW
+006,Marpole,44.4%,Dunbar-Southlands,22.2%,11,9,2,11,100.0%,LOW
+007,Mount Pleasant,47.7%,Fairview,36.4%,50,44,6,50,100.0%,LOW
+008,Oakridge,61.0%,Shaughnessy,26.8%,50,41,9,50,100.0%,MEDIUM
+009,Riley Park,48.9%,Downtown,40.4%,50,47,3,50,100.0%,LOW
+010,Kerrisdale,50.0%,Oakridge,37.0%,50,46,4,50,100.0%,LOW
+011,Marpole,31.7%,Oakridge,29.3%,50,41,9,50,100.0%,LOW
+012,Marpole,44.7%,Downtown,14.9%,50,47,3,50,100.0%,LOW
+013,Mount Pleasant,48.8%,Strathcona,16.3%,50,43,7,50,100.0%,LOW
+014,Mount Pleasant,31.2%,Hastings-Sunrise,29.2%,50,48,2,50,100.0%,LOW
+015,Riley Park,37.5%,Mount Pleasant,22.5%,50,40,10,50,100.0%,LOW
+016,Riley Park,65.2%,Sunset,23.9%,50,46,4,50,100.0%,MEDIUM
+017,Sunset,42.3%,Riley Park,26.9%,50,26,24,50,100.0%,LOW
+018,Killarney,82.1%,Marpole,10.7%,50,28,22,50,100.0%,HIGH
+019,Sunset,30.6%,Riley Park,30.6%,50,49,1,50,100.0%,LOW
+020,Hastings-Sunrise,71.4%,Strathcona,24.5%,50,49,1,50,100.0%,MEDIUM
+021,Mount Pleasant,44.9%,Hastings-Sunrise,26.5%,50,49,1,50,100.0%,LOW
+022,Riley Park,52.0%,Renfrew-Collingwood,20.0%,50,50,0,50,100.0%,LOW
+023,Renfrew-Collingwood,36.4%,Killarney,27.3%,50,44,6,50,100.0%,LOW
+024,Sunset,38.8%,Killarney,26.5%,50,49,1,50,100.0%,LOW
+025,Sunset,72.5%,Killarney,20.0%,50,40,10,50,100.0%,MEDIUM
+026,Downtown,60.0%,Strathcona,13.3%,50,45,5,50,100.0%,MEDIUM
+027,West End,58.5%,Downtown,39.0%,50,41,9,50,100.0%,LOW
+028,Downtown,66.7%,West End,20.0%,50,45,5,50,100.0%,MEDIUM
+029,Downtown,97.7%,West End,2.3%,50,44,6,50,100.0%,HIGH
+030,Downtown,76.7%,Mount Pleasant,9.3%,50,43,7,50,100.0%,MEDIUM

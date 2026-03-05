@@ -1,0 +1,262 @@
+businesstype,macro_category,gentrification_signal
+Adult Entertainment Store *Historic*,Adult Services,neutral
+Adult Retail Store *Historic*,Adult Services,neutral
+Adult Services,Adult Services,neutral
+Agriculture *Historic*,Agriculture & Environment,low
+Amusement Park,Entertainment & Hospitality,medium
+Animal Clinic/Hospital *Historic*,Health & Beauty,neutral
+Animal Services,Health & Beauty,neutral
+Animal Services *Historic*,Health & Beauty,neutral
+Apartment House *Historic*,Residential,neutral
+Apartment House Strata *Historic*,Residential,neutral
+Apartment House-99 Year Lease *Historic*,Residential,neutral
+Arcade *Historic*,Entertainment & Hospitality,neutral
+Architectural and Engineering Services,Construction & Trades,medium
+Artist,Arts & Culture,high
+Artist *Historic*,Arts & Culture,high
+Artist Agency,Arts & Culture,high
+Artist Live/Work Studio *Historic*,Arts & Culture,high
+Artist Studio,Arts & Culture,high
+Arts and Creative Instruction,Arts & Culture,high
+Assembly Hall *Historic*,Entertainment & Hospitality,neutral
+Association or Society,Government & Non-Profit,neutral
+Auctioneer *Historic*,Manufacturing & Wholesale,neutral
+Auto Dealer *Historic*,Automotive,low
+Auto Detailing *Historic*,Automotive,low
+Auto Painter & Body Shop *Historic*,Automotive,low
+Auto Parking Lot/Parkade *Historic*,Automotive,neutral
+Auto Repairs *Historic*,Automotive,low
+Auto Washer *Historic*,Automotive,low
+Auto Wholesaler *Historic*,Automotive,low
+Auto Wrecker *Historic*,Automotive,low
+Backyard Pay Parking *Historic*,Automotive,neutral
+Beauty Services,Health & Beauty,medium
+Beauty Services *Historic*,Health & Beauty,medium
+Bed and Breakfast,Entertainment & Hospitality,medium
+Billiard Room Keeper *Historic*,Entertainment & Hospitality,neutral
+Bingo Hall *Historic*,Entertainment & Hospitality,neutral
+Bingo Hall / Casino / Horse Racing,Entertainment & Hospitality,neutral
+Boat Charter Services *Historic*,Entertainment & Hospitality,medium
+Booking Agency *Historic*,Arts & Culture,medium
+Boot & Shoe Repairs *Historic*,Professional Services,neutral
+Bowling Alley *Historic*,Entertainment & Hospitality,neutral
+Brokerage Services,Financial & Insurance,medium
+Building Repair and Maintenance,Construction & Trades,low
+Business - Vocational Instruction,Education & Instruction,medium
+Business Services *Historic*,Professional Services,medium
+Business Support Services,Professional Services,medium
+Cannabis Licence Application,Retail,neutral
+Carpet/Upholstery Cleaner *Historic*,Construction & Trades,neutral
+Casino *Historic*,Entertainment & Hospitality,neutral
+Caterer,Food & Beverage,medium
+Chimney Sweep *Historic*,Construction & Trades,low
+Christmas Tree Lot *Historic*,Agriculture & Environment,neutral
+Club *Historic*,Entertainment & Hospitality,medium
+Community Association *Historic*,Government & Non-Profit,neutral
+Computer Services *Historic*,Technology & Information,medium
+Consulting and Management Services,Professional Services,medium
+Contractor *Historic*,Construction & Trades,low
+Contractor - Special Trades *Historic*,Construction & Trades,low
+Cosmetologist *Historic*,Health & Beauty,medium
+Creative Products Manufacturer,Arts & Culture,high
+Dairy Delivery Services *Historic*,Food & Beverage,low
+Dance Hall *Historic*,Entertainment & Hospitality,medium
+Dating Services *Historic*,Entertainment & Hospitality,neutral
+Design Services,Arts & Culture,high
+Digital Entertainment and Interactive Technology,Entertainment & Hospitality,high
+Dry Cleaner *Historic*,Other Services,neutral
+Duplex *Historic*,Residential,neutral
+ESL Instruction *Historic*,Education & Instruction,neutral
+Educational *Historic*,Education & Instruction,neutral
+Electrical Contractor *Historic*,Construction & Trades,low
+Electrical-Security Alarm Installation *Historic*,Construction & Trades,low
+Employment Agency *Historic*,Professional Services,neutral
+Entertainment Centre *Historic*,Entertainment & Hospitality,neutral
+Entertainment Facility,Entertainment & Hospitality,medium
+Entertainment Services *Historic*,Entertainment & Hospitality,neutral
+Equipment Operator *Historic*,Construction & Trades,low
+Exhibition Centre,Entertainment & Hospitality,medium
+Exhibitions/Shows/Concerts *Historic*,Entertainment & Hospitality,medium
+Exotic Dancers *Historic*,Adult Services,neutral
+Family Sports & Entertain Ctr *Historic*,Entertainment & Hospitality,neutral
+Financial Institution,Financial & Insurance,medium
+Financial Institution *Historic*,Financial & Insurance,medium
+Financial Services,Financial & Insurance,medium
+Financial Services *Historic*,Financial & Insurance,medium
+Fitness Centre,Health & Beauty,high
+Food Manufacturer Assembler and Processor,Food & Beverage,low
+Food Market,Food & Beverage,medium
+Food Processing *Historic*,Food & Beverage,low
+Forestry Services,Agriculture & Environment,low
+Funeral Services *Historic*,Health & Beauty,neutral
+Gas Contractor *Historic*,Automotive,low
+Gas Station,Automotive,low
+Gasoline Station *Historic*,Automotive,low
+General Contractor,Construction & Trades,low
+General Repair and Maintenance,Construction & Trades,low
+Grocery Store,Food & Beverage,neutral
+Hall / Spectator Sports Venue,Entertainment & Hospitality,medium
+Health Care Facility,Health & Beauty,neutral
+Health Care Professionals and Services,Health & Beauty,neutral
+Health Enhancement Services,Health & Beauty,high
+Health Services *Historic*,Health & Beauty,neutral
+Health and Beauty *Historic*,Health & Beauty,medium
+Homecraft *Historic*,Arts & Culture,medium
+Horse Racing *Historic*,Entertainment & Hospitality,neutral
+Hotel or Motel,Entertainment & Hospitality,medium
+Information Communication Technology,Technology & Information,high
+Instruction *Historic*,Education & Instruction,neutral
+Insurance Services,Financial & Insurance,medium
+Janitorial Services *Historic*,Other Services,low
+Jeweller *Historic*,Retail,high
+Junk Dealer *Historic*,Manufacturing & Wholesale,low
+Laboratory Services,Health & Beauty,neutral
+Landscape Gardener *Historic*,Agriculture & Environment,neutral
+Late Night Dance Event *Historic*,Entertainment & Hospitality,medium
+Laundry (w/equipment) *Historic*,Other Services,neutral
+Laundry Depot *Historic*,Other Services,neutral
+Laundry Services,Other Services,neutral
+Laundry-Coin Operated Services *Historic*,Other Services,neutral
+Legal Services,Professional Services,medium
+Limited Service Food Establishment,Food & Beverage,medium
+Liquor Delivery Services *Historic*,Food & Beverage,neutral
+Liquor Establishment,Food & Beverage,high
+Liquor Establishment Extended  *Historic*,Food & Beverage,high
+Liquor Establishment Standard *Historic*,Food & Beverage,medium
+Liquor License Application,Food & Beverage,neutral
+Liquor Retail Store,Food & Beverage,medium
+Liquor Retail Store *Historic*,Food & Beverage,neutral
+Live-aboards *Historic*,Residential,neutral
+Livery & Feed Stables *Historic*,Agriculture & Environment,low
+Locksmith *Historic*,Construction & Trades,low
+Logistics Services,Transportation & Logistics,low
+Long-term Rental,Real Estate & Rental,neutral
+Ltd Service Food Establishment *Historic*,Food & Beverage,medium
+Lumber Yard *Historic*,Manufacturing & Wholesale,low
+Machinery Dealer *Historic*,Manufacturing & Wholesale,low
+Manufacturer *Historic*,Manufacturing & Wholesale,low
+Manufacturer - Food *Historic*,Food & Beverage,low
+Manufacturer - Food with Anc. Retail *Historic*,Food & Beverage,low
+Manufacturer with Anc. Retail *Historic*,Manufacturing & Wholesale,low
+Marina Operator,Real Estate & Rental,neutral
+Marina Operator *Historic*,Real Estate & Rental,neutral
+Marine Service Station,Automotive,low
+Marine Services *Historic*,Transportation & Logistics,low
+Marketing Public Relations Advertising and Event Promotion Services,Professional Services,medium
+Massage Therapist *Historic*,Health & Beauty,medium
+Mining Services,Agriculture & Environment,low
+Model Agency *Historic*,Arts & Culture,medium
+Money Services,Financial & Insurance,neutral
+Money Services *Historic*,Financial & Insurance,neutral
+Motel *Historic*,Entertainment & Hospitality,neutral
+Moving/Transfer Service *Historic*,Transportation & Logistics,low
+Multiple Dwelling *Historic*,Residential,neutral
+Non-Food Manufacturer Assembler and Processor,Manufacturing & Wholesale,low
+Non-profit Housing *Historic*,Residential,neutral
+Office *Historic*,Professional Services,medium
+Oil Gas and Other Fuels,Automotive,low
+Painter *Historic*,Construction & Trades,low
+Parking Area / Garage,Automotive,neutral
+Pawnbroker *Historic*,Financial & Insurance,low
+Peddler *Historic*,Retail,neutral
+Personal Care Home *Historic*,Health & Beauty,neutral
+Personal Services,Health & Beauty,medium
+Personal Services *Historic*,Health & Beauty,medium
+Pest Control/Exterminator *Historic*,Construction & Trades,low
+Pet Store *Historic*,Health & Beauty,medium
+Pharmacy,Health & Beauty,neutral
+Photo Services *Historic*,Professional Services,medium
+Photographer *Historic*,Professional Services,medium
+Photography Production and Rehearsal Studio,Arts & Culture,high
+Physical Therapist *Historic*,Health & Beauty,neutral
+Piano Tuner *Historic*,Professional Services,neutral
+Plumber & Gas Contractor *Historic*,Construction & Trades,low
+Plumber & Sprinkler Contractor *Historic*,Construction & Trades,low
+Plumber *Historic*,Construction & Trades,low
+Plumber Sprinkler & Gas Contractor *Historic*,Construction & Trades,low
+Postal Rental Agency *Historic*,Retail,neutral
+Power/ Pressure Washing *Historic*,Construction & Trades,low
+Pre-1956 Dwelling *Historic*,Residential,neutral
+Printing Imaging and Photo Services,Professional Services,medium
+Printing Services *Historic*,Professional Services,neutral
+Private Hospital *Historic*,Health & Beauty,neutral
+Private School or College,Education & Instruction,medium
+Product Assembly *Historic*,Manufacturing & Wholesale,low
+Production Company *Historic*,Arts & Culture,high
+Psychic/Fortune Teller *Historic*,Professional Services,neutral
+Public Market - Daily *Historic*,Food & Beverage,medium
+Public Market Operator-Annual *Historic*,Food & Beverage,medium
+Publishing and Journalism Services,Arts & Culture,medium
+Real Estate Dealer *Historic*,Real Estate & Rental,medium
+Real Estate Services,Real Estate & Rental,medium
+Recycling Depot *Historic*,Manufacturing & Wholesale,low
+Recycling and Resource Recovery Services,Manufacturing & Wholesale,low
+Referral Services *Historic*,Professional Services,neutral
+Rental Services,Real Estate & Rental,medium
+Rentals *Historic*,Real Estate & Rental,neutral
+Repair/ Service/Maintenance *Historic*,Other Services,neutral
+Residential/Commercial *Historic*,Residential,neutral
+Restaurant,Food & Beverage,medium
+Restaurant Class 1 *Historic*,Food & Beverage,medium
+Restaurant Class 2 *Historic*,Food & Beverage,medium
+Retail Dealer,Retail,medium
+Retail Dealer *Historic*,Retail,medium
+Retail Dealer - Cannabis,Food & Beverage,high
+Retail Dealer - Food,Food & Beverage,medium
+Retail Dealer - Food *Historic*,Food & Beverage,neutral
+Retail Dealer - Grocery *Historic*,Food & Beverage,neutral
+Retail Dealer - Market Outlet *Historic*,Food & Beverage,neutral
+Retail Dealer - Used Goods,Retail,medium
+Roofer *Historic*,Construction & Trades,low
+Rooming House *Historic*,Residential,neutral
+Scavenging *Historic*,Manufacturing & Wholesale,low
+School (Business & Trade) *Historic*,Education & Instruction,neutral
+Seamstress/Tailor *Historic*,Professional Services,neutral
+Secondary Suite - Permanent *Historic*,Residential,neutral
+Secondhand Dealer *Historic*,Retail,low
+Security Services,Professional Services,neutral
+Security Services *Historic*,Professional Services,neutral
+Sheet Metal Works *Historic*,Construction & Trades,low
+Short-term Rental Operator,Entertainment & Hospitality,high
+Single Detached House *Historic*,Residential,neutral
+Social Escort Services *Historic*,Adult Services,neutral
+Soliciting For Charity,Government & Non-Profit,neutral
+Special Events,Entertainment & Hospitality,medium
+Specialized Services *Historic*,Professional Services,neutral
+Sport and Fitness Instruction,Education & Instruction,medium
+Sprinkler & Gas Contractor *Historic*,Construction & Trades,low
+Sprinkler Contractor *Historic*,Construction & Trades,low
+Steam Bath *Historic*,Health & Beauty,neutral
+Street Vendor,Retail,neutral
+Studio *Historic*,Arts & Culture,high
+Talent Agency *Historic*,Arts & Culture,medium
+Tanning Salon *Historic*,Health & Beauty,medium
+Tattoo Parlour *Historic*,Health & Beauty,high
+Telecommunications *Historic*,Technology & Information,neutral
+Temp Liquor Licence Amendment,Other Services,neutral
+Temporary Filming Company,Entertainment & Hospitality,medium
+Theatre,Entertainment & Hospitality,high
+Theatre *Historic*,Entertainment & Hospitality,high
+Therapeutic Touch Technique *Historic*,Health & Beauty,medium
+Tourism Services,Entertainment & Hospitality,medium
+Trade Contractor,Construction & Trades,low
+Transient Trader/Peddler-W *Historic*,Retail,neutral
+Transportation and Support Services,Transportation & Logistics,low
+Travel Agent *Historic*,Professional Services,neutral
+U-Brew/U-Vin *Historic*,Food & Beverage,neutral
+Urban Farm Class A,Agriculture & Environment,neutral
+Urban Farm Class B,Agriculture & Environment,neutral
+Vehicle Repair Detailing and Washing Services,Automotive,low
+Vending Machines *Historic*,Retail,neutral
+Venue,Entertainment & Hospitality,medium
+Venue *Historic*,Entertainment & Hospitality,medium
+Warehouse Operator - Food,Food & Beverage,low
+Warehouse Operator - Non-Food,Manufacturing & Wholesale,low
+Waste Collection and Hauling Services,Construction & Trades,low
+Wholesale  Dealer *Historic*,Manufacturing & Wholesale,low
+Wholesale Dealer - Food,Food & Beverage,low
+Wholesale Dealer - Food *Historic*,Food & Beverage,low
+Wholesale Dealer - Food with Anc. Retail *Historic*,Food & Beverage,low
+Wholesale Dealer - Non-Food,Manufacturing & Wholesale,low
+Wholesale Dealer w/ Anc. Retail *Historic*,Manufacturing & Wholesale,low
+Window Cleaner *Historic*,Construction & Trades,low
