@@ -1,7 +1,7 @@
 # Business Licences Dataset Inventory
 **Phase**: 1 (Data Acquisition) + 2 (Data Quality Assessment)
 **Date**: 2026-03-03
-**Analyst**: Claude Code (Desk-Mode Agent)
+**Analyst**: Andre Santos
 **Framework**: DATA-PROJECT-RIGOR.md v1.0
 
 ---

@@ -1,6 +1,6 @@
 # Folder Audit — van-property-tax
 
-**Audited by**: Claude Code (Desk-Mode Agent)
+**Audited by**: Andre Santos
 **Date**: 2026-03-03
 **Scope**: Full recursive audit of `/home/aurora/projects/sites/portfolio-projects/van-property-tax/`
 **Total files**: 120 regular files + 2 symlinks = 122 entries

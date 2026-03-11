@@ -1080,7 +1080,7 @@ The `localarea` field in all business licence datasets is described as a "manual
 
 ---
 
-*Document compiled by Claude Code (claude-sonnet-4-6) on 2026-03-03.*
+*Document compiled on 2026-03-03.*
 *Data sources: City of Vancouver Open Data Portal API (v2.1), portal information pages, Open Data Change Log (all 190 entries reviewed), web searches for supplementary documents.*
 *All metadata from API calls is authoritative; HTML-rendered page content may differ due to dynamic loading.*
 *Supplementary PDFs (self-serve chart, council reports) were unavailable for direct content extraction due to 403 restrictions — content described from web search results and change log entries.*

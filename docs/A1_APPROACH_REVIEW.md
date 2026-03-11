@@ -1,7 +1,7 @@
 # Adversarial Review: Neighbourhood Code Mapping Approach
 **Document**: Review of proposed geocoding-based approach for mapping BC Assessment neighbourhood codes (001–030) to City of Vancouver local area names (22 areas)
 **Date**: 2026-03-03
-**Reviewer**: Claude Code (Desk-Mode Agent)
+**Reviewer**: Andre Santos
 **Status of proposed approach**: PARTIALLY EXECUTED — `geocode_neighbourhood_codes.py` has already run and produced `neighbourhood_code_lookup.csv` and `NEIGHBOURHOOD_CODE_MAPPING.md`. This review evaluates the outputs, not just the plan.
 
 ---
@@ -307,6 +307,6 @@ Do not proceed to neighbourhood-level EDA until one of these two approaches is c
 
 ---
 
-*Review performed by Claude Code (Desk-Mode Agent) on 2026-03-03.*
+*Review performed on 2026-03-03.*
 *Framework: DATA-PROJECT-RIGOR.md adversarial challenge protocol.*
 *Evidence sources: actual CSV data, NEIGHBOURHOOD_CODE_MAPPING.md, DATA_INVENTORY.md, ASSUMPTION_VERIFICATION.md, BUSINESS_LICENCES_INVENTORY.md, business licence snapshot, local-area-boundary.geojson, web research.*

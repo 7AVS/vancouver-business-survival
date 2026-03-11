@@ -2,7 +2,7 @@
 
 **Project**: Vancouver Property Tax Analysis
 **Stage**: 1 — Inventory and Quality Assessment (do NOT extract variables yet)
-**Author**: Claude Code Desk Agent
+**Author**: Andre Santos
 **Date**: 2026-03-03
 **Input files audited**:
 - `data/raw/census/2006_CT/vancouver_CMA_2006.csv`
@@ -907,4 +907,4 @@ df21_ct['ct_id'] = df21_ct['ALT_GEO_CODE'].astype(str).apply(normalize_ctuid_21)
 *Stage 1 complete. Do NOT proceed to variable extraction until this assessment has been reviewed.*
 *Stage 2 (extraction) should use the Tier 1/2/3 variable lists above, applying the reading templates and normalization functions.*
 *Output file: `data/inventory/CENSUS_QUALITY_ASSESSMENT.md`*
-*Generated: 2026-03-03 by Claude Code Desk Agent*
+*Generated: 2026-03-03*

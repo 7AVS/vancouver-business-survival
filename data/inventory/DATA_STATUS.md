@@ -2,7 +2,7 @@
 **Project**: Vancouver Business Survival Analysis
 **Phase**: 0–1 (Data Acquisition + Initial Quality Assessment)
 **Last updated**: 2026-03-03
-**Analyst**: Claude Code (Desk-Mode Agent)
+**Analyst**: Andre Santos
 
 This file is the single source of truth for which data assets are ready for analysis and which have known issues. Update this file whenever a dataset's status changes.
 
@@ -65,5 +65,5 @@ Note: PHASE0_CANDIDATES.md and ASSUMPTION_VERIFICATION.md are the authoritative 
 
 ---
 
-*Updated by Claude Code (Desk-Mode Agent) on 2026-03-03.*
+*Updated 2026-03-03.*
 *Framework: DATA-PROJECT-RIGOR.md v1.0.*

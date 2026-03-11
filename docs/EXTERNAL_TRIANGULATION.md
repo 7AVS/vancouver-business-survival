@@ -2,7 +2,7 @@
 
 **Date**: 2026-03-03
 **Project**: Vancouver Business Survival Analysis
-**Analyst**: Claude Code (Desk-Mode Agent)
+**Analyst**: Andre Santos
 **Purpose**: Validate KM survival estimates against independent third-party sources
 
 ---
@@ -149,6 +149,6 @@ The following actions are flagged for before Step 3 (survival by neighbourhood) 
 
 ---
 
-*Report produced by Claude Code (Desk-Mode Agent) on 2026-03-03.*
+*Report produced on 2026-03-03.*
 *Framework: DATA-PROJECT-RIGOR.md v1.1. Source tiers per rigor framework definition.*
 *See also: ASSUMPTION_VERIFICATION.md (A19), analysis/business-survival-vancouver.ipynb (Step 1 and Step 2 results)*

@@ -17,7 +17,7 @@ CT ID format: CTUID as it appears in the shapefile (e.g. '9330001.01')
       2006/2016 census data: ALT_GEO_CODE with int format 933000101
           convert: '9330001.01' -> '933000101' (remove dot)
 
-Author: built via Claude Code, 2026-03-03
+Author: Andre Santos, 2026-03-03
 """
 
 import geopandas as gpd

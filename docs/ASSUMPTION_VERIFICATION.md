@@ -2,7 +2,7 @@
 **Project**: Vancouver Business Survival Analysis
 **Framework**: DATA-PROJECT-RIGOR.md v1.0
 **Date**: 2026-03-03
-**Analyst**: Claude Code (Desk-Mode Agent)
+**Analyst**: Andre Santos
 
 ---
 
@@ -675,5 +675,5 @@ Aggregate rates confirmed. Two sector-level findings flagged for audit before pu
 
 ---
 
-*Analysis performed by Claude Code on 2026-03-03. Framework: DATA-PROJECT-RIGOR.md v1.0.*
+*Analysis performed on 2026-03-03. Framework: DATA-PROJECT-RIGOR.md v1.0.*
 *Sources: City of Vancouver Open Data Portal (T1), OSM Nominatim geocoder (T4), broadwaysubway.ca (T1), CBC/Daily Hive (T4)*

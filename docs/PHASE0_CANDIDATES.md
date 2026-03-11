@@ -3,7 +3,7 @@
 **Phase**: 0 (Problem Framing)
 **Date**: 2026-03-03
 **Framework**: DATA-PROJECT-RIGOR.md v1.0
-**Author**: Claude Code Desk-Mode Agent
+**Author**: Andre Santos
 
 ---
 

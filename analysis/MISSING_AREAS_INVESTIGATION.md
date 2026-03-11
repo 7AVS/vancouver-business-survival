@@ -1,7 +1,7 @@
 # Missing Areas Investigation: Fast Path to 6 Local Areas
 
 **Date**: 2026-03-03
-**Investigator**: Claude Code (Desk-Mode Agent)
+**Investigator**: Andre Santos
 **Question**: Is there a fast path to get land value data for the 6 local areas currently missing from `neighbourhood_land_values.csv`?
 
 **Missing areas**: Grandview-Woodland, Kensington-Cedar Cottage, Kitsilano, South Cambie, Victoria-Fraserview, West Point Grey
